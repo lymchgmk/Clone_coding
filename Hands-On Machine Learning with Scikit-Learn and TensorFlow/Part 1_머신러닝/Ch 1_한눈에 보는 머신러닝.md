@@ -1,4 +1,4 @@
-# 1. 한눈에 보는 머신러닝
+# Ch 1. 한눈에 보는 머신러닝
 
 - 기존에 사용해온 오래된 머신러닝 기술들이 있다.
   - (예시) ***광학문자 판독기*** (Optical Character Recognition, OCR), ***스팸 필터*** (Spam filter)
